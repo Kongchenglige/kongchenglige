@@ -1,8 +1,11 @@
 ### Hi there 👋  
-** Kongcheng Lige is a PHPer and he is low level on it, But he is so good at use `rm -rf /* ` . How shame he can push his code on Github.**  
-Well, is a joke. In fact he indeed a PHPer but not good at CSS and JavaScript.  
-In chinese, it called "干啥啥不行,丢人第一名". 
+
+**Kongcheng Lige is a PHPer and he is low level on it, But he is so good at use rm -rf /* . How dare he can push his code on Github.**  
+
+Well, is a joke. In fact he indeed a PHPer but not good at CSS and JavaScript.As you see he is still learn English.  
+In Chinese, it called "干啥啥不行,丢人第一名".  
 He like Bangumi, Novel and Play game, in common he just like something lovely or interesting, he also good at play Music video game.  
+If you want to talk with him, you can find him at [there](https://iasoc.cn)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kongchenglige&show_icons=true&icon_color=990000&title_color=990000)  ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongchenglige&layout=compact&title_color=990000)
 <!--
