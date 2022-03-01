@@ -6,7 +6,7 @@ Well, is a joke. In fact he indeed a PHPer but not good at CSS. As you see he is
 
 In Chinese, it called "干啥啥不行,丢人第一名".  
 
-He like Bangumi, Novel and Play video game, in common he just like something lovely or interesting, he also good at play Music video game.  
+He like Bangumi, Novel and Play video game, in common he just like something lovely or interesting, he also good at play rhythm game.  
 If you want to talk with him, please send email to him.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kongchenglige&show_icons=true&icon_color=990000&title_color=990000)  ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongchenglige&layout=compact&title_color=990000)
