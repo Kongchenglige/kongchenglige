@@ -1,3 +1,4 @@
+<!---
 ### Hi there 👋  
 
 **Kongcheng Lige is a PHPer and he is low level on it, But he is so good at use rm -rf /\* . How dare he can push his code on Github.**  
@@ -10,6 +11,7 @@ He like Bangumi, Novel and Play video game, in common he just like something lov
 If you want to talk with him, please send email to him.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kongchenglige&show_icons=true&icon_color=990000&title_color=990000)  ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongchenglige&layout=compact&title_color=990000)
+-->
 ![Metrics](/github-metrics.svg)
 <!--
 **Kongchenglige/kongchenglige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
