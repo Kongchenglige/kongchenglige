@@ -29,8 +29,8 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, characters
           plugin_anilist_shuffle: yes
           plugin_anilist_user: kongchenglige
           plugin_habits: yes
@@ -38,6 +38,8 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
